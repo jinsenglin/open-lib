@@ -20,7 +20,7 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
  */
 
-package console;
+package tw.jim.openlib;
 
 /**
  * Runtime exception for handling console errors.
